@@ -1,50 +1,31 @@
-一个可以放在各种网盘，各种空间的，Markdown 语法支持的 Wiki 系统，可以用来方便的管理自己的知识碎片。欢迎各种支持～
 
-[Github 项目页](https://github.com/dmscode/Wiki-in-box)
-
-## 使用说明： ##
-
-1. 如果你使用的是 Firefox 浏览器，那么可以把文件放在网盘，在本地使用，十分方便；
-2. 如果你使用的是 Chrome 浏览器，你需要准备一个 Http 服务器，请不要找那些大型套件，一个很小很小的 Http 服务器即可，把文件放在网站根目录，在本地使用一样爽歪；
-3. 如果你使用 Sublime Text 作为编辑器，那么，只需要安装 SublimeServer 插件 [SublimeServer](https://github.com/learning/SublimeServer) 便可以轻松 High 翻天
-4. 如果你有需要，也可以以上传到网站进行展示，这不需要做任何修改，但是由于是异步读取文件内容，境外主机请慎选，否则可能也面颊在时间过长；
-5. 文件存放在 data 目录下，后缀为 md，因为本系统支持的是 Markdown 语法（[Markdown教程](http://wowubuntu.com/markdown/)）；
-6. data 目录下支持子目录；
-7. 命名空间深度无限，详细规则如下：
-
-	http://yourname.com/?name=dir-a:dir-b:file-c
-	对应读取文件为：
-	/data/ dir-a/dir-b/file-c.md
-
-8. 内部链接只需要链接到页面命名，比如：```[链接到一个页面](linux:vim)```；
-9. imgs 文件夹可用来储存文章图片，目录结构自行安排
-
-## 这里是一行测试代码 ##
-
-[链接另一个MD](todo)
-[哈哈你才](inea)
-[哈哈你就是个傻比](software:sublime-text-3)
+## 欢迎您的访问 ##
 
 
-## 文件结构： ##
+>这里是夏小正的 Github 博客。虽然是一名文科生，但酷爱互联网，懂一些基础的网络常识，混迹于各类 SNS 平台。
 
-* /
-	* 	|- files			全部引用文件
-		* 	|- css			全部样式文件，包括 Bootscrap、Hightlight、自定义
-		* 	|- fonts		全部字体文件，目前主要是 Bootscrap
-		* 	|- js			全部脚本文件，包括 Bootscrap、Hightlight、自定义
-	* 	|- files			全部引用文件
-	* 	|- imgs				全部文章图片
-	* 	|- data				全部文章源码
-		*	|- index.md		默认显示文档，建议用作索引
-	* 	|- index.html		唯一的页面文件，负责解读一切内容
 
-## 代码高亮： ##
 
-	<script>
-		alert('Hello, World!')
-	</script>
+本博客开通于 2015 年 12 月 10 日。
 
-## 图片效果： ##
+在这之前，混迹的平台包括：新浪博客（张兴秋）、知乎专栏（小正说事）、微信公账号（西科学长）、网易云电台（小正说事）、网易 Lofter（夏小正）、Instagram（gftvlie）、Tumblr（夏小正）、Facebook（张兴秋）、知乎（夏小正）、微博（张兴秋）、豆瓣（夏小正）……
 
-![Bridge](imgs/bridge.jpg)
+恩，没错，正如你所见，完完全全的一名互联网爱好者。
+
+当然，也不满足于现状，总是处于一种对互联网新技术抱有强烈的好奇心，总有一种渴望学习并且掌握的动力。
+
+<script>
+一次偶然的机会，了解到了 Github，便开始（从 2015 年 11 月初）研究，如何用它来为自己的互联网生活创造点什么，在一番瞎捣鼓之后，有了你所见到的这个用 MD 写的 Blog。
+</script>
+
+而本 Blog 的代码是源自 [Wiki-in-box](https://github.com/dmscode/Wiki-in-box),我是直接 Fork 之后，根据自己的需要进行的修改，在此感谢原作者。
+
+最后感谢您的关注，本 Blog 会不定的更新。
+
+
+
+## 你想说点什么 ##
+
+可以在知乎上，私信[@夏小正](http://www.zhihu.com/people/xiaxiaozheng)
+
+也可以在微博上，私信[@张兴秋](http://weibo.com/gftvlie)
