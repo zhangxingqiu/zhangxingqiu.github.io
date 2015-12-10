@@ -8,6 +8,9 @@
 
 本博客开通于 2015 年 12 月 10 日。
 
+----------
+
+
 在这之前，混迹的平台包括：新浪博客（张兴秋）、知乎专栏（小正说事）、微信公账号（西科学长）、网易云电台（小正说事）、网易 Lofter（夏小正）、Instagram（gftvlie）、Tumblr（夏小正）、Facebook（张兴秋）、知乎（夏小正）、微博（张兴秋）、豆瓣（夏小正）……
 
 恩，没错，正如你所见，完完全全的一名互联网爱好者。
@@ -20,16 +23,26 @@
 
 而本 Blog 的代码是源自 [Wiki-in-box](https://github.com/dmscode/Wiki-in-box),我是直接 Fork 之后，根据自己的需要进行的修改，在此感谢原作者。
 
+
 最后感谢您的关注，本 Blog 会不定的更新。
 
+
+----------
 
 
 ## 你想说点什么 ##
 
-可以在知乎上，私信[@夏小正](http://www.zhihu.com/people/xiaxiaozheng)
 
-也可以在微博上，私信[@张兴秋](http://weibo.com/gftvlie)
 
-## Be Happy Be Fine ##
+- 您可以在知乎上，私信[@夏小正](http://www.zhihu.com/people/xiaxiaozheng)
+
+
+- 也可以在微博上，私信[@张兴秋](http://weibo.com/gftvlie)
+
+## Be Happy & Be Fine ##
+
+
 
 ![me](imgs/me.jpeg)
+
+### Smile to your life,and all will well. ###
