@@ -35,9 +35,9 @@
 
 ###在线使用###
 
-[测试](windows:idea)
-[任务清单](windows:todo)
-[这也是一个测试](software:sublime-text-3）
+[测试](idea)
+[任务清单](todo)
+[这依旧是一个测试](software:sublime-text-3)
 
 ###添加页内目录###
 
