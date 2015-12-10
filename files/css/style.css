@@ -1,0 +1,57 @@
+﻿*{
+	margin: 0px;
+	padding: 0px;
+}
+.menu{
+	background-color: #eee;
+	height: 40px;
+	width: 600px;
+	margin:0px auto;        /*margin后面如果只有两个参数的话，第一个表示top和bottom，第二个表示left和right
+                                                             因为0 auto，表示上下边界为0，左右则根据宽度自适应相同值（即居中）*/
+}
+ul{
+	list-style: none;
+}
+ul li{
+	float: left;
+	line-height: 40px;
+	text-align: center;
+	position: relative;
+}
+a{
+	text-decoration: none;
+	color: #000;
+	display: block;
+	width:90px;          /*我错了*/
+	
+}
+a:hover{
+	background-color: #666;
+	color:#fff ;
+}
+ul li ul li{
+	float: none;
+	border-left: none;
+	margin-top: 2px;
+	background-color:#eee ;
+}
+ul li ul{
+	display: none;
+	width: 90px;
+	position: absolute;
+}
+ul li:hover ul{
+	display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
