@@ -29,3 +29,7 @@
 可以在知乎上，私信[@夏小正](http://www.zhihu.com/people/xiaxiaozheng)
 
 也可以在微博上，私信[@张兴秋](http://weibo.com/gftvlie)
+
+## Be Happy Be Fine ##
+
+[me](imgs/me.jpeg)
