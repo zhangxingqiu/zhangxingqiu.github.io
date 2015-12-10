@@ -32,4 +32,4 @@
 
 ## Be Happy Be Fine ##
 
-[me](imgs/me.jpeg)
+![me](imgs/me.jpeg)
