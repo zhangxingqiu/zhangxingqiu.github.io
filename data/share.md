@@ -6,4 +6,4 @@ somethings
 
 ----------
 
-[如何写好一封合规的邮件？](share/write-email)
+[如何写好一封合规的邮件？](http://blog.zhangxingqiu.cn/index.html?name=share/write-email)
