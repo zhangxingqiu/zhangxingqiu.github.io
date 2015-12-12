@@ -22,6 +22,8 @@
 
 以下是用 Google Map 标记的地图，需要在外网（翻墙）的情况下正常访问，如果网络环境不符合，可能暂时无法在线查看，只能查看上述截图。
 
-<iframe src="https://www.google.com/maps/d/embed?mid=zlNz1rKMs8_E.kEQtRi8DB-v0" width="640" height="480" ></iframe>
+<iframe src="https://www.google.cn/maps/d/embed?mid=zlNz1rKMs8_E.kEQtRi8DB-v0" width="640" height="480" ></iframe>
 <script>
+
+<script language = "JavaScript" src = "bottom.js"/></script> 
 
