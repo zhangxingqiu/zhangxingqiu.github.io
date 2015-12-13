@@ -75,6 +75,6 @@ Anyway，暂时这样吧。
 
 
 <!-- UY 在线评论代码-->
-<div id="uyan_fra平me"></div>
+<div id="uyan_frame"></div>
 <script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2076107"></script>
 <!-- UY END -->
