@@ -3,6 +3,10 @@
 
 #### 发布时间：2015/12/11 16:28:11 
 
+
+----------
+
+
 大概是从高中历史教材中，知道了《夏小正》这本古代著作之后，对这三个字便一见钟情，自此，夏小正，成了我在多数非关键场合所用的第二个名字。
 
 高中阶段，还给自己起过非常多的烂笔名，其中最烂的一个：薛凌枫。（现在想起来，都觉得一阵呕心）
@@ -24,3 +28,10 @@
 
 <iframe src="https://www.google.com/maps/d/embed?mid=zlNz1rKMs8_E.kEQtRi8DB-v0"  frameborder="0" style="border:0" allowfullscreen width="640" height="480" ></iframe>
 
+
+
+----------
+<!-- UY 在线评论代码-->
+<div id="uyan_frame"></div>
+<script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2076107"></script>
+<!-- UY END -->

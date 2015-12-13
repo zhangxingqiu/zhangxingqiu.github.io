@@ -53,3 +53,13 @@
 从 2015 年 6 月 1 日，录制第一期节目，到 2015 年 12 月 11 日，共上传电台节目 150 余期，总节目时长超过 2000 分钟。
 
 暂时写到这儿，等我想想之后，再来更新。
+
+
+
+----------
+
+
+<!-- UY 在线评论代码-->
+<div id="uyan_frame"></div>
+<script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2076107"></script>
+<!-- UY END -->
