@@ -44,10 +44,10 @@
 3.[某一次点名游戏的全程记录](dianming-game)
 
 
-4.[如何写好一封合规的邮件？](share/write-email)
+4.[如何写好一封合规的邮件？](data/share/write-email)
 
 
-5.[10 分钟 教你用谷歌地图做一张自己的旅行足迹](share/make-a-map)
+5.[10 分钟 教你用谷歌地图做一张自己的旅行足迹](data/share/make-a-map)
 
 
 ----------
