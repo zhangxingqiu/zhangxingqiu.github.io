@@ -58,7 +58,7 @@ Anyway，暂时这样吧。
 
 新增的页面地址为： 绝大部分文章页面的尾部均可以查看到。
 
-效果截图为：！[zaixianpl](imgs/zaixianpl.jpg)
+效果截图为：![zaixianpl](imgs/zaixianpl.jpg)
 
 
 一晃，已经很久没有像这次倒腾这个网站一样，花这么多心思和精力。
