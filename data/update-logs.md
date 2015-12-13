@@ -44,7 +44,7 @@
 
 预期的情况下，每一位访客都是可以查看到下面这个样子。
 
-![right](imgs/rihgt.jpg)
+![right](imgs/right.jpg)
 
 Anyway，暂时这样吧。
 
