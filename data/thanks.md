@@ -60,3 +60,11 @@
 恩，大概是这样，好像瞎扯了蛮多的废话。总之也是感谢他了，在接下来的北漂生涯当中，还会有很多的交流沟通，之后再继续更新和他的故事吧，暂时到这里。
 
 `此部分更新于 2015 年 12 月 11 日 2：00`
+
+
+
+
+<!-- UY 在线评论代码-->
+<div id="uyan_frame"></div>
+<script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2076107"></script>
+<!-- UY END -->
