@@ -12,7 +12,7 @@
 
 接着是用站长工具，Ping 不同地方访问的本网站的响应速度，截图中可以看出实验结果。
 
-![cesu](imgs/webs/ceshu1.jpg)
+![cesu1](imgs/webs/ceshu1.jpg)
 
 确实国内访问普遍偏慢，再测试 github.com 的官网，发现了根源。
 
