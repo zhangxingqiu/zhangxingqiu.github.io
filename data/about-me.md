@@ -23,7 +23,7 @@
 毕业前，大学宿舍最后的场景
 ----------
 
-<iframe src="http://720yun.com/t/c14z8f2s28e" frameborder="no" border="0" style="width: 1000px;height: 600px;"></iframe>
+<iframe src="http://720yun.com/t/c14z8f2s28e" frameborder="no" border="0" style="width: auto;height: 600px;"></iframe>
 
 ## 我的足迹
 
