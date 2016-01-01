@@ -37,25 +37,23 @@
 
 1.[关于 2016 年的年度计划 Demo 版](2016)
 
-
 2.[个人 MBTI 性格测试结果 INTP 分析](MBTI-INTP)
-
 
 3.[某一次点名游戏的全程记录](dianming-game)
 
-
 4.[如何写好一封合规的邮件？](http://blog.zhangxingqiu.cn/index.html?name=/share/write-email)
-
 
 5.[10 分钟 教你用谷歌地图做一张自己的旅行足迹](http://blog.zhangxingqiu.cn/index.html?name=/share/make-a-map)
 
-
 6.[写在某一个无眠夜](2015-12-14)
-
 
 7.[本网站测速实验报告](ceshu)
 
 8.[一次意外的感冒，却……](2015-12-29)
+
+## 2016 年 1 月更新博文
+
+1.[年度盘点 “据”说 2015](2015%20review)
 
 ----------
 
