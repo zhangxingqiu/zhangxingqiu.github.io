@@ -53,7 +53,7 @@
 
 ## 2016 年 1 月更新博文
 
-1.[年度盘点 “据”说 2015](2015%20review)
+1.[年度盘点 “据”说 2015](http://blog.zhangxingqiu.cn/index.html?name=/2016/2015%20review)
 
 ----------
 
