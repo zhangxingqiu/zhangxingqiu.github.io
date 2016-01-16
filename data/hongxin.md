@@ -28,7 +28,7 @@ PC 版本的软件，下载之后安装即可，浏览器会跳出一个网页�
 
 Android 版本的软件，界面也真的是非常简洁漂亮，具体如下：直接选择 ON 就行，不用的时候 OFF。
 
-![hongxin](imgs/web/hongxin.png)
+![hongxin](imgs/webs/hongxin.png)
 
 
 
