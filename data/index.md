@@ -57,6 +57,8 @@
 
 2.[红杏都要出墙，你为什么不呢？](hongxin)
 
+3.[分享给大家的各种利器](http://blog.zhangxingqiu.cn/index.html?name=/share/我的利器)
+
 ----------
 
 
