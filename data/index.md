@@ -59,6 +59,8 @@
 
 3.[分享给大家的各种利器](http://blog.zhangxingqiu.cn/index.html?name=/share/我的利器)
 
+4.[心里住着某个人](http://blog.zhangxingqiu.cn/index.html?name=/2016/someone)
+
 ----------
 
 
