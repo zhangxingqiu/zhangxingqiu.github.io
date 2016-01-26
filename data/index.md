@@ -63,6 +63,7 @@
 
 5.[What should I do now](http://blog.zhangxingqiu.cn/index.html?name=/2016/should)
 
+6.[每次当快要放弃的时候](http://blog.zhangxingqiu.cn/index.html?name=/2016/give-up)
 ----------
 
 
