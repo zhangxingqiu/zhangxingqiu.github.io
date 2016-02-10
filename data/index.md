@@ -65,9 +65,9 @@
 
 6.[每次当快要放弃的时候](http://blog.zhangxingqiu.cn/index.html?name=/2016/give-up)
 
+## 2016 年 2 月更新博文
 
-
-
+1.[写在 2016 年的大年初三](http://blog.zhangxingqiu.cn/index.html?name=/2016/2-10)
 
 ----------
 
