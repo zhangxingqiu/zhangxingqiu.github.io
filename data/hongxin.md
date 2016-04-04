@@ -42,6 +42,68 @@ Android 版本的软件，界面也真的是非常简洁漂亮，具体如下：
 5. 红杏都出墙了，你为什么不呢？世界那么大，去看看吧。
 
 
+官方下载链接
+=====
+感谢您联系Lantern团队. Lantern使用一系列技术，包括代理和点对点网络，帮助您访问被封锁的站点。
+
+
+您可以从以下链接下载到最新版本的Lantern。
+
+
+安卓设备:
+
+https://s3.amazonaws.com/lantern/lantern-installer-beta.apk
+
+
+Windows XP SP3 and above:
+
+https://s3.amazonaws.com/lantern/lantern-installer-beta.exe
+
+
+Mac OSX 64-bit:
+
+https://s3.amazonaws.com/lantern/lantern-installer-beta.dmg
+
+
+32-bit Ubuntu 14.04 and above:
+
+https://s3.amazonaws.com/lantern/lantern-installer-beta-32-bit.deb
+
+
+64-bit Ubuntu 14.04 and above:
+
+https://s3.amazonaws.com/lantern/lantern-installer-beta-64-bit.deb
+
+
+
+如果以上链接被封锁，下面是替代链接：
+
+
+安卓设备:
+
+https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta.apk
+
+
+Windows XP SP3 and above:
+
+https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta.exe
+
+
+Mac OSX 64-bit:
+
+https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta.dmg
+
+
+32-bit Ubuntu 14.04 and above:
+
+https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta-32-bit.deb
+
+
+64-bit Ubuntu 14.04 and above:
+
+https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta-64-bit.deb
+
+
 
 ----------
 
